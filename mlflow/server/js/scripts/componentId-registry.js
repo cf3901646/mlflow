@@ -1047,7 +1047,6 @@ module.exports = {
   "mlflow.experiment-issues.retry-refresh": "",
   "mlflow.experiment-issues.row": "",
   "mlflow.experiment-issues.row.category": "",
-  "mlflow.experiment-issues.source-run": "",
   "mlflow.experiment-issues.trace-error": "",
   "mlflow.experiment-issues.triage-error": "",
 
